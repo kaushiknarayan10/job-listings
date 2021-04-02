@@ -1,0 +1,58 @@
+.card-logo {
+    align-items: center;
+    height: 5rem;
+    width: 5rem;
+}
+
+.card-content {
+    font-family: 'Biryani', sans-serif;
+    padding-top: 2rem;
+    align-items: center;
+    display: inline-block;
+    flex-direction: row;
+    height: 25rem;
+    width: 30rem;
+    color : #4261eb;
+}
+
+.card-body {
+    padding-top: 3rem;
+    display:flex;
+    flex-direction:column;
+    color : #4261eb;
+}
+
+.card-text {
+    align-items: center;
+    position: absolute;
+    bottom: 1rem;
+    color : #4261eb;
+}
+
+.card-link {
+    align-items: center;
+    position: absolute;
+    bottom: 0.5rem;
+    
+}
+
+.table-content {
+    font-family: 'Biryani', sans-serif;
+    padding-top: 2rem;
+    text-align: center;
+    color : #4261eb;
+}
+
+.table-head {
+    color: white;
+    background-color: #4261eb;
+    font-family: 'Biryani', sans-serif;
+    padding-top: 2rem;
+    text-align: center;
+}
+
+.App {
+    text-align: center;
+    display:flexbox;
+    padding-top: 10px;
+  }
